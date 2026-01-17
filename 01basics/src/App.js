@@ -16,12 +16,13 @@ function App() {
     setCount(count-1);
   }
   return (
-  <>
-    <h1>Counter App {count}</h1>
-    <button onClick={addValue}>increment</button>
-    <button onClick={removeValue}>decrement</button>
-    <button onClick={removeValue}>decrement</button>
-  </>
+  // <>
+  //   <h1>Counter App {count}</h1>
+  //   <button onClick={addValue}>increment</button>
+  //   <button onClick={removeValue}>decrement</button>
+  //   <button onClick={removeValue}>decrement</button>
+  // </>
+  <h1>hewllo</h1>
   );
 }
 
